@@ -1,0 +1,111 @@
+[
+  {
+    "id" : "1",
+    "name": "Clàudia López Villalba",
+    "email": "claudia1@gmail.com",
+
+    "last_logon_days" : 2, 
+    "total_logons": 6,
+    "current_grade": 7,
+    "late_submissions": 1,
+    "resources_viewed": 2,
+    "forum_email_questions": 1
+
+  },
+
+  {
+    "id" : "2",
+    "name": "Marc Pérez Figueras",
+    "email": "marc2@gmail.com",
+
+    "last_logon_days" : 3, 
+    "total_logons": 10,
+    "current_grade": 7.5,
+    "late_submissions": 0,
+    "resources_viewed": 3,
+    "forum_email_questions": 2
+  }
+,
+{
+    "id" : "3",
+    "name":"Clàudia López Villalba",
+    "email":"claudia1@gmail.com",
+
+    "last_logon_days" : 4, 
+    "total_logons": 5,
+    "current_grade": 10,
+    "late_submissions": 1,
+    "resources_viewed": 4,
+    "forum_email_questions": 0
+
+  },
+
+  {
+    "id" : "4",
+    "name": "Marc Pérez Figueras",
+    "email": "marc2@gmail.com",
+
+    "last_logon_days" : 3, 
+    "total_logons": 1,
+    "current_grade": 7.5,
+    "late_submissions": 0,
+    "resources_viewed": 3,
+    "forum_email_questions": 2
+
+  },
+  {
+    "id" : "5",
+    "name":"Clàudia López Villalba",
+    "email":"claudia1@gmail.com",
+
+    "last_logon_days" : 0, 
+    "total_logons": 0,
+    "current_grade": 0,
+    "late_submissions": 0,
+    "resources_viewed": 0,
+    "forum_email_questions": 0
+
+  },
+
+  {
+    "id" : "6",
+    "name": "Marc Pérez Figueras",
+    "email": "marc2@gmail.com",
+
+    "last_logon_days" : 3, 
+    "total_logons": 1,
+    "current_grade": 7.5,
+    "late_submissions": 0,
+    "resources_viewed": 3,
+    "forum_email_questions": 2
+
+  },
+  {
+    "id" : "7",
+    "name":"Clàudia López Villalba",
+    "email":"claudia1@gmail.com",
+
+    "last_logon_days" : 0, 
+    "total_logons": 0,
+    "current_grade": 0,
+    "late_submissions": 0,
+    "resources_viewed": 0,
+    "forum_email_questions": 0
+
+  },
+
+  {
+    "id" : "8",
+    "name": "Marc Pérez Figueras",
+    "email": "marc2@gmail.com",
+
+    "last_logon_days" : 3, 
+    "total_logons": 1,
+    "current_grade": 7.5,
+    "late_submissions": 0,
+    "resources_viewed": 3,
+    "forum_email_questions": 2
+
+  }
+
+]
