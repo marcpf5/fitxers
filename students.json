@@ -3,190 +3,156 @@
     "id" : "1",
     "name": "Nom1",
     "email": "estudiant1@email.com",
-
-    "last_logon_days" : 2, 
+    "last_logon_days" : 5, 
     "total_logons": 6,
-    "current_grade": 7,
-    "late_submissions": 1,
+    "current_grade": 4.5,
+    "late_submissions": 2,
     "resources_viewed": 2,
     "forum_email_questions": 1
-
   },
-
   {
     "id" : "2",
     "name": "Nom2",
     "email": "estudiant2@email.com",
-
-    "last_logon_days" : 3, 
-    "total_logons": 10,
-    "current_grade": 7.5,
+    "last_logon_days" : 0, 
+    "total_logons": 25,
+    "current_grade": 9.2,
     "late_submissions": 0,
-    "resources_viewed": 3,
-    "forum_email_questions": 2
-  }
-,
-{
+    "resources_viewed": 4,
+    "forum_email_questions": 5
+  },
+  {
     "id" : "3",
     "name":"Nom3",
     "email":"estudiant3@email.com",
-
-    "last_logon_days" : 6, 
-    "total_logons": 5,
-    "current_grade": 6,
+    "last_logon_days" : 8, 
+    "total_logons": 4,
+    "current_grade": 5.0,
     "late_submissions": 1,
-    "resources_viewed": 2,
+    "resources_viewed": 1,
     "forum_email_questions": 0
-
   },
-
   {
     "id" : "4",
     "name": "Nom4",
     "email": "estudiant4@email.com",
-
-    "last_logon_days" : 3, 
-    "total_logons": 1,
-    "current_grade": 7.5,
+    "last_logon_days" : 2, 
+    "total_logons": 14,
+    "current_grade": 6.8,
     "late_submissions": 0,
     "resources_viewed": 3,
     "forum_email_questions": 2
-
   },
   {
     "id" : "5",
     "name":"Nom5",
     "email":"estudiant5@email.com",
-
-    "last_logon_days" : 0, 
-    "total_logons": 0,
-    "current_grade": 0,
-    "late_submissions": 0,
-    "resources_viewed": 0,
+    "last_logon_days" : 20, 
+    "total_logons": 1,
+    "current_grade": 1.5,
+    "late_submissions": 2,
+    "resources_viewed": 1,
     "forum_email_questions": 0
-
   },
-
   {
     "id" : "6",
     "name": "Nom6",
     "email": "estudiant6@email.com",
-
-    "last_logon_days" : 3, 
-    "total_logons": 1,
-    "current_grade": 7.5,
-    "late_submissions": 0,
-    "resources_viewed": 3,
-    "forum_email_questions": 2
-
+    "last_logon_days" : 6, 
+    "total_logons": 5,
+    "current_grade": 4.8,
+    "late_submissions": 2,
+    "resources_viewed": 2,
+    "forum_email_questions": 1
   },
   {
     "id" : "7",
     "name":"Nom7",
     "email":"estudiant7@email.com",
-
-    "last_logon_days" : 0, 
+    "last_logon_days" : 27, 
     "total_logons": 0,
-    "current_grade": 0,
-    "late_submissions": 0,
+    "current_grade": 0.0,
+    "late_submissions": 2,
     "resources_viewed": 0,
     "forum_email_questions": 0
-
   },
-
   {
     "id" : "8",
     "name": "Nom8",
     "email": "estudiant8@email.com",
-
-    "last_logon_days" : 3, 
-    "total_logons": 1,
+    "last_logon_days" : 1, 
+    "total_logons": 18,
     "current_grade": 7.5,
     "late_submissions": 0,
-    "resources_viewed": 3,
-    "forum_email_questions": 2
-
+    "resources_viewed": 4,
+    "forum_email_questions": 3
   },
-
   {
     "id" : "9",
     "name": "Nom9",
     "email": "estudiant9@email.com",
-
-    "last_logon_days" : 3, 
-    "total_logons": 1,
-    "current_grade": 7.5,
-    "late_submissions": 0,
+    "last_logon_days" : 4, 
+    "total_logons": 8,
+    "current_grade": 5.2,
+    "late_submissions": 1,
     "resources_viewed": 3,
-    "forum_email_questions": 2
-
+    "forum_email_questions": 0
   },
   {
     "id" : "10",
     "name":"Nom10",
     "email":"estudiant10@email.com",
-
-    "last_logon_days" : 0, 
-    "total_logons": 0,
-    "current_grade": 0,
-    "late_submissions": 0,
-    "resources_viewed": 0,
+    "last_logon_days" : 18, 
+    "total_logons": 2,
+    "current_grade": 2.0,
+    "late_submissions": 2,
+    "resources_viewed": 1,
     "forum_email_questions": 0
-
   },
-
   {
     "id" : "11",
     "name": "Nom11",
     "email": "estudiant11@email.com",
-
     "last_logon_days" : 3, 
-    "total_logons": 1,
-    "current_grade": 7.5,
+    "total_logons": 12,
+    "current_grade": 6.5,
     "late_submissions": 0,
     "resources_viewed": 3,
-    "forum_email_questions": 2
-
+    "forum_email_questions": 1
   },
   {
     "id" : "12",
     "name":"Nom12",
     "email":"estudiant12@email.com",
-
-    "last_logon_days" : 0, 
+    "last_logon_days" : 26, 
     "total_logons": 0,
-    "current_grade": 0,
-    "late_submissions": 0,
+    "current_grade": 0.0,
+    "late_submissions": 2,
     "resources_viewed": 0,
     "forum_email_questions": 0
-
   },
-
   {
     "id" : "13",
     "name": "Nom13",
     "email": "estudiant13@email.com",
-
-    "last_logon_days" : 3, 
-    "total_logons": 1,
-    "current_grade": 7.5,
+    "last_logon_days" : 2, 
+    "total_logons": 15,
+    "current_grade": 7.0,
     "late_submissions": 0,
-    "resources_viewed": 3,
+    "resources_viewed": 4,
     "forum_email_questions": 2
-
   },
   {
     "id" : "14",
     "name": "Nom14",
     "email": "estudiant14@email.com",
-
-    "last_logon_days" : 3, 
-    "total_logons": 1,
-    "current_grade": 7.5,
+    "last_logon_days" : 0, 
+    "total_logons": 28,
+    "current_grade": 9.5,
     "late_submissions": 0,
-    "resources_viewed": 3,
-    "forum_email_questions": 2
-
+    "resources_viewed": 4,
+    "forum_email_questions": 4
   }
+]
 
 ]
